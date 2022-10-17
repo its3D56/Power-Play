@@ -25,6 +25,5 @@ class BotAuto: LinearOpMode() {
         bot.fr.mode = DcMotor.RunMode.RUN_USING_ENCODER
         bot.bl.mode = DcMotor.RunMode.RUN_USING_ENCODER
         bot.br.mode = DcMotor.RunMode.RUN_USING_ENCODER
-
     }
 }
